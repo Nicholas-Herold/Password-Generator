@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-var upper [];
-var lower[];
+var upper = [];
+var lower = [];
 var numbers=[1,2,3,4,5,6,7,8,9,0];
 var pass=[];
 
